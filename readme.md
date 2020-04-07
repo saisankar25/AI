@@ -1,2 +1,2 @@
-# My AI codes
-This is where all my codes will be available.
+# AI code
+This is where all my ANN,CNN and RNN codes will be available
