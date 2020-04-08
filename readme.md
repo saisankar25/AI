@@ -1,2 +1,2 @@
 # ML pipline
-This is where ML complete pipline will be bild.
+This is where ML complete pipline will be build.
