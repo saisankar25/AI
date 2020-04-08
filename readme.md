@@ -1,2 +1,2 @@
-# AI code
-This is where all my ANN,CNN and RNN codes will be available to us
+# ML pipline
+This is where ML complete pipline will be bild.
